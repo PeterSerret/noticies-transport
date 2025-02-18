@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Notícies de Transport</title>
+        <link>https://peterserret.github.io/transport2/lliurament.html</link>
+        <description>Últimes notícies sobre mobilitat i transport públic</description>
+        <language>ca</language>
+
+        <!-- Enllaç canònic del feed (recomanat pel W3C) -->
+        <atom:link href="https://peterserret.github.io/transport2/rss.xml" rel="self" type="application/rss+xml" />
+
+        <item>
+            <title>Nova línia d'autobusos a la ciutat</title>
+            <link>https://peterserret.github.io/transport2/lliurament.html#nova-linia</link>
+            <description>La ciutat ha inaugurat una nova línia d'autobusos que millorarà la mobilitat dels ciutadans.</description>
+            <pubDate>Mon, 17 Feb 2025 12:00:00 GMT</pubDate>
+            <author>info@transportpublic.com (Departament de Comunicació)</author>
+            <category>Transport Públic</category>
+            <guid isPermaLink="true">https://peterserret.github.io/transport2/lliurament.html#nova-linia</guid>
+        </item>
+
+        <item>
+            <title>Incidències a les pantalles de les aturades</title>
+            <link>https://peterserret.github.io/transport2/lliurament.html#incidencies-pantalles</link>
+            <description>S'han detectat incidències tècniques en les pantalles informatives de les aturades d'autobús.</description>
+            <pubDate>Mon, 17 Feb 2025 14:00:00 GMT</pubDate>
+            <author>info@transportpublic.com (Departament de Comunicació)</author>
+            <category>Incidències</category>
+            <guid isPermaLink="true">https://peterserret.github.io/transport2/lliurament.html#incidencies-pantalles</guid>
+        </item>
+
+    </channel>
+</rss>
